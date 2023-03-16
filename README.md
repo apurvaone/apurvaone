@@ -12,7 +12,6 @@
 - Passionate about DSA and problem solving
 - Constantly exploring what's possible with code
 - Currently learning Django
-- Open for opportunities...here is my [Resume](https://drive.google.com/file/d/1MFBzrrxZ-NGSu4FMbMmBu-67wetQEUdo/view?usp=sharing)
 
 <br><br>
 
