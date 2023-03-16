@@ -11,7 +11,7 @@
 - a Android Developer
 - Passionate about DSA and problem solving
 - Constantly exploring what's possible with code
-- Currently learning Django
+- Currently learning JavaScript
 
 <br><br>
 
