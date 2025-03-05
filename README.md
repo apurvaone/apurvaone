@@ -8,10 +8,10 @@
 
 <br>
 
-- a Android Developer
-- Passionate about DSA and problem solving
+- a Software Developer
+- Passionate about building things.
 - Constantly exploring what's possible with code
-- Currently learning JavaScript
+- Currently learning GenAI and building large scale systems
 
 <br><br>
 
